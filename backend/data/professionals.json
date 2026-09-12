@@ -1,0 +1,52 @@
+[
+  {
+    "id": "MED-001",
+    "Medical_name": "Dr. Carlos Silva",
+    "speciality": "Cardiology"
+  },
+  {
+    "id": "MED-002",
+    "Medical_name": "Dr. Ana Souza",
+    "speciality": "Pediatrics"
+  },
+  {
+    "id": "MED-003",
+    "Medical_name": "Dr. Roberto Costa",
+    "speciality": "Dermatology"
+  },
+  {
+    "id": "MED-004",
+    "Medical_name": "Dr. Mariana Lima",
+    "speciality": "Neurology"
+  },
+  {
+    "id": "MED-005",
+    "Medical_name": "Dr. Lucas Oliveira",
+    "speciality": "Orthopedics"
+  },
+  {
+    "id": "MED-006",
+    "Medical_name": "Dr. Juliana Mendes",
+    "speciality": "Gynecology"
+  },
+  {
+    "id": "MED-007",
+    "Medical_name": "Dr. Fernando Rocha",
+    "speciality": "Ophthalmology"
+  },
+  {
+    "id": "MED-008",
+    "Medical_name": "Dr. Beatriz Ribeiro",
+    "speciality": "Psychiatry"
+  },
+  {
+    "id": "MED-009",
+    "Medical_name": "Dr. Gabriel Martins",
+    "speciality": "General Practice"
+  },
+  {
+    "id": "MED-010",
+    "Medical_name": "Dr. Camila Araujo",
+    "speciality": "Endocrinology"
+  }
+]
