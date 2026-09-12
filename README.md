@@ -16,6 +16,10 @@ appointments and extracts structured details from free-text questions, based on 
 - **frontend/** — React + Vite + TypeScript chat UI. Shows the professionals list, live
   appointments, and the assistant's confirmation/error messages.
 
+
+<img width="1078" height="949" alt="image" src="https://github.com/user-attachments/assets/de1359d5-01ca-4bdf-8b51-ce488b6c6524" />
+
+
 ## Backend setup
 
 ```bash
