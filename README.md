@@ -27,6 +27,10 @@ cp .env.example .env   # add your OPENROUTER_API_KEY
 uvicorn app.main:app --reload --port 8000
 ```
 
+<img width="1413" height="492" alt="image" src="https://github.com/user-attachments/assets/735bb411-4d9f-4af0-a860-bc3a79735129" />
+
+
+
 ## Frontend setup
 
 ```bash
